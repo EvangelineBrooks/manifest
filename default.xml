@@ -616,7 +616,6 @@
   <project name="platform/vendor/qcom-opensource/dataservices" path="vendor/qcom/opensource/dataservices"/>
   <project name="platform/vendor/qcom-opensource/dpm" path="vendor/qcom/opensource/dpm"/>
   <project name="platform/vendor/qcom-opensource/fm" path="vendor/qcom/opensource/fm"/>
-  <project name="platform/vendor/qcom-opensource/fst-manager" path="vendor/qcom/opensource/fst-manager"/>
   <project name="platform/vendor/qcom-opensource/interfaces" path="vendor/qcom/opensource/interfaces">
     <copyfile dest="vendor/qcom/opensource/Android.bp" src="os_pickup.bp"/>
   </project>
